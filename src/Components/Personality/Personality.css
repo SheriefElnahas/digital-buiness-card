@@ -1,0 +1,19 @@
+.Personality {
+    padding:0.5rem 2rem 1rem 2rem;
+    max-width:317px;
+    margin:0 auto;
+    background:#1A1B21;
+}
+
+.Personality h3 {
+    font-size:16px;
+    font-weight: bold;
+    line-height:150%;
+    margin-bottom:0.2rem;
+}
+
+.Personality p {
+    font-size:10.24px;
+    line-height: 170%;
+    color:#DCDCDC;
+}

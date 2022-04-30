@@ -1,0 +1,27 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background:black; 
+}
+
+.App {
+    background:#23252C;
+    color:#fff;
+    height:100%;
+    box-shadow:4px 8px 12px rgba(0,0,0,0.2);
+    display:flex;
+    justify-content: space-around;
+    overflow: hidden;
+}
+
+@media (max-width: 660px) {
+    .App {
+        flex-direction: column;
+    }
+
+}

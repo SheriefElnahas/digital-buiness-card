@@ -1,0 +1,60 @@
+
+.Info {
+    max-width:317px;
+    margin:0 auto;
+    padding-top:1.5rem;
+
+}
+.Info img {
+    width:317px;
+    height: 317px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display:block;
+}
+
+.Info-content {
+    text-align: center;
+    background:#1A1B21;
+
+}
+
+.Info-heading {
+    font-size:22px;
+    font-weight:bold;
+    padding-top:1rem;
+}
+
+.Info-job {
+    font-size:12.8px;
+    padding:0.4rem 0 0.3rem 0;
+    color:#F3BF99;
+}
+
+
+.Info-buttons {
+    text-align: center;
+    padding:1rem 0 0 1rem;
+    background:#1A1B21;
+}
+
+.Info-buttons button {
+    width:115px;
+    height:34px;
+    margin-right:1rem;
+    border-radius: 6px;
+    border:none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size:14px;
+    font-weight:400;
+}
+.Info-buttons button:nth-child(2) {
+    background:#5093E2;
+    color:#fff;
+}
+
+.button-icon {
+    margin-right:0.3rem;
+    margin-bottom:-1px;
+}
